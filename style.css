@@ -262,7 +262,7 @@ section .title::after {
 }
 
 .home .home-content a {
-  display: block;
+  display: block; 
   width: 100px;
   height: 50px;
   background: crimson;
