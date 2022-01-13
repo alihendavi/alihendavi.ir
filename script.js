@@ -36,10 +36,11 @@ $(document).ready(function () {
   // typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "Mechanical Engineer",
-      "Full Stack Developer",
-      "Lifelong Learner",
-      "Web Designer",
+      
+      "برنامه نویس وب",
+      "طراح ui/ux",
+      "طراح وب",
+      "طراح پایگاه داده",
       "Freelancer"
     ],
     typeSpeed: 100,
