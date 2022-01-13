@@ -105,7 +105,9 @@ section .title::after {
  .fontslide{
   font-family: 'Vazir';
  }
-
+#glif{
+  font-size: 1em;
+}
 .navbar.sticky {
   padding: 15px 0;
   background: crimson;
@@ -262,19 +264,17 @@ section .title::after {
 }
 
 .home .home-content a {
-  display: block; 
-  width: 100px;
-  height: 50px;
+  display: inline-block;
   background: crimson;
   color: #fff;
-  font-size: 1.75em;
-  padding: 6px 20px 6px 20px;
+  font-size: 25px;
+  padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 6px;
   border: 2px solid crimson;
   transition: all 0.3s ease;
-  text-align: center;
+  font-family: 'vazir';
 }
 
 .home .home-content a:hover {
@@ -872,5 +872,5 @@ display: inline-block;
  -webkit-font-smoothing: antialiased;
  -moz-osx-font-smoothing: grayscale
 }
-.icon-ponisha:before{content:'\0041';}
-.icon-amazon:before{content:'\0042';}
+.icon-ponisha:before{content:'\0041';
+}
