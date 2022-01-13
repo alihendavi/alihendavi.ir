@@ -284,7 +284,7 @@ section .title::after {
 
 /* about section styling */
 .about .title{
-  font-family: 'vazir', Courier, monospace;
+  font-family: 'Vazir';
 }
 .about .title::after {
   content: "من کیستم";
