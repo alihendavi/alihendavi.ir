@@ -99,12 +99,7 @@ section .title::after {
   font-family: "UBUNTU", sans-serif;
   transition: all 0.3s ease;
 }
- #menu{
-   font-family: 'Vazir';
- }
- .fontslide{
-  font-family: 'Vazir';
- }
+
 #glif{
   font-size: 1em;
 }
@@ -352,7 +347,7 @@ section .title::after {
 .services .title::after,
 .teams .title::after {
   background: #111;
-  content: "What I provide";
+  content: "چه ارائه می دهم";
 }
 
 .services .serv-content .card {
@@ -873,4 +868,12 @@ display: inline-block;
  -moz-osx-font-smoothing: grayscale
 }
 .icon-ponisha:before{content:'\0041';
+}
+
+.font{
+  font-family: vazir;
+}
+
+#font {
+  font-family: vazir;;
 }
