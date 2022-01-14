@@ -50,10 +50,11 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Mechanical Engineer",
+      "مهندس نرم افزار",
       "Full Stack Developer",
-      "Lifelong Learner",
-      "Web Designer",
+      "طراح وب سایت",
+      "طراح پایگاه داده",
+      "برنامه نویس وب",
       "Freelancer"
     ],
     typeSpeed: 100,
