@@ -480,7 +480,7 @@ section .title::after {
 
 /* teams section styling */
 .teams .title::after {
-  content: "who with me";
+  content: "آنچه کار کرده ام";
 }
 
 .teams .carousel .card {
@@ -554,7 +554,7 @@ section .title::after {
 
 /* contact section styling */
 .contact .title::after {
-  content: "get in touch";
+  content: "در ارتباط باشید";
 }
 
 .contact .contact-content .column {
