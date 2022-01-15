@@ -350,6 +350,11 @@ section .title::after {
   content: "چه ارائه می دهم";
 }
 
+teams a {
+  text-decoration: none;
+  color:#fff;
+}
+
 .services .serv-content .card {
   width: calc(33% - 20px);
   background: #222;
@@ -836,6 +841,10 @@ footer span a:hover {
   }
 }
 
+footer a {
+ text-decoration: none;
+ color: #fff;
+}
 @font-face {
   font-family: Vazir;
   src: url('assets/fonts/Vazir-Bold.eot');
