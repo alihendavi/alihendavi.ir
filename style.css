@@ -350,7 +350,7 @@ section .title::after {
   content: "چه ارائه می دهم";
 }
 
-teams a {
+.teams a {
   text-decoration: none;
   color:#fff;
 }
