@@ -283,7 +283,7 @@ section .title::after {
   font-family: 'Vazir';
 }
 .about .title::after {
-  content: "من کیستم";
+  content: "علم شناخت پیرامون";
 }
 
 .about .about-content .left {
